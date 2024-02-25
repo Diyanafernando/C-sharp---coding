@@ -1,0 +1,2 @@
+C:\Users\difer\OneDrive\Desktop\C# new\Lec 2\Lec 2 Question 1 (Calculator)\obj\Debug\Lec 2 Question 1 (Calculator).csproj.AssemblyReference.cache
+C:\Users\difer\OneDrive\Desktop\C# new\Lec 2\Lec 2 Question 1 (Calculator)\obj\Debug\Lec 2 Question 1 (Calculator).csproj.CoreCompileInputs.cache
