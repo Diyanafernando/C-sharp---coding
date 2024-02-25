@@ -1,0 +1,7 @@
+C:\Users\difer\OneDrive\Desktop\C# new\Lab\Lab sheet 01\Lab 1 Question 5\bin\Debug\Lab 1 Question 5.exe.config
+C:\Users\difer\OneDrive\Desktop\C# new\Lab\Lab sheet 01\Lab 1 Question 5\bin\Debug\Lab 1 Question 5.exe
+C:\Users\difer\OneDrive\Desktop\C# new\Lab\Lab sheet 01\Lab 1 Question 5\bin\Debug\Lab 1 Question 5.pdb
+C:\Users\difer\OneDrive\Desktop\C# new\Lab\Lab sheet 01\Lab 1 Question 5\obj\Debug\Lab 1 Question 5.csproj.AssemblyReference.cache
+C:\Users\difer\OneDrive\Desktop\C# new\Lab\Lab sheet 01\Lab 1 Question 5\obj\Debug\Lab 1 Question 5.csproj.CoreCompileInputs.cache
+C:\Users\difer\OneDrive\Desktop\C# new\Lab\Lab sheet 01\Lab 1 Question 5\obj\Debug\Lab 1 Question 5.exe
+C:\Users\difer\OneDrive\Desktop\C# new\Lab\Lab sheet 01\Lab 1 Question 5\obj\Debug\Lab 1 Question 5.pdb
